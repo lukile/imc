@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="weight">Poids :</string>
+    <string name="input_weight">Poids</string>
+    <string name="height">Taille : </string>
+    <string name="input_height">Taille</string>
+    <string name="meter">Mètre</string>
+    <string name="centimeter">Centimètres</string>
+    <string name="checkbox">Méga fonction !</string>
+    <string name="compute">Calculer l\'IMC</string>
+    <string name="raz">RAZ</string>
+    <string name="result">Résultat : </string>
+</resources>
